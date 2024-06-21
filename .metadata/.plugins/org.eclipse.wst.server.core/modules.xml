@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.jee.server:dynamic-web-app-demo" serverId="Tomcat v10.1 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:jsp-project" serverId="Tomcat v10.1 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:jstl-app" serverId="Tomcat v10.1 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:spring-mvc-app" serverId="Tomcat v10.1 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:spring-mvc-app1" serverId="Tomcat v10.1 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:session-handling-demo" serverId="Tomcat v10.1 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:spring-mvc---app" serverId="Tomcat v10.1 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:demo-web-app" serverId="Tomcat v10.1 Server at localhost"/>
+</modules>

@@ -1,0 +1,15 @@
+127.0.0.1 - - [04/Jun/2024:09:17:35 +0530] "GET / HTTP/1.1" 404 752
+127.0.0.1 - - [04/Jun/2024:09:18:18 +0530] "GET /spring-mvc-app/pc/registration HTTP/1.1" 200 3317
+127.0.0.1 - - [04/Jun/2024:09:18:18 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+127.0.0.1 - - [04/Jun/2024:09:18:42 +0530] "GET /spring-mvc-app/uc/hello HTTP/1.1" 200 18
+127.0.0.1 - - [04/Jun/2024:09:29:50 +0530] "GET / HTTP/1.1" 404 752
+127.0.0.1 - - [04/Jun/2024:09:30:22 +0530] "GET /spring-mvc-app/uc/users?username=admin&password=admin@123 HTTP/1.1" 200 17
+127.0.0.1 - - [04/Jun/2024:09:36:18 +0530] "GET /spring-mvc-app/uc/users/admin/admin@123 HTTP/1.1" 404 782
+0:0:0:0:0:0:0:1 - - [04/Jun/2024:10:37:21 +0530] "POST /spring-mvc-app/uc/users HTTP/1.1" 200 78
+127.0.0.1 - - [04/Jun/2024:11:14:15 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [04/Jun/2024:11:14:35 +0530] "PUT /spring-mvc-app/uc/users HTTP/1.1" 200 78
+127.0.0.1 - - [04/Jun/2024:11:22:22 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [04/Jun/2024:11:24:07 +0530] "DELETE /spring-mvc-app/uc/users HTTP/1.1" 200 22
+0:0:0:0:0:0:0:1 - - [04/Jun/2024:11:24:15 +0530] "DELETE /spring-mvc-app/uc/users HTTP/1.1" 200 13
+0:0:0:0:0:0:0:1 - - [04/Jun/2024:11:24:46 +0530] "DELETE /spring-mvc-app/uc/users HTTP/1.1" 200 22
+127.0.0.1 - - [04/Jun/2024:16:09:24 +0530] "GET / HTTP/1.1" 404 752
